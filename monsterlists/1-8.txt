@@ -1,0 +1,22 @@
+Blood hawk MM320
+Camel MM321
+Cultist MM346
+Flumph MM136
+Flying snake MM323
+Giant Crab MM325
+Giant Rat MM328
+Giant weasel MM330
+Guard MM348
+Kobold MM196
+Manes MM61
+Mastiff MM333
+Merfolk MM219
+Monodrone MM225
+Mule MM334
+Noble MM349
+Poisonous snake MM335
+Pony MM336
+Slaad tadpole MM277
+Stirge MM285
+Tribal Warrior MM351
+Twig blight MM33

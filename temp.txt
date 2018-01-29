@@ -1,0 +1,30 @@
+A: Grimlock MM176, Grimlock MM176, Myconid sprout MM231, Myconid sprout MM231, Myconid sprout MM231
+130
+{'cp': 51}
+
+B: Giant poisonous snake MM328, Giant poisonous snake MM328, Giant poisonous snake MM328
+150
+{'cp': 110}
+
+C: Deception (10), Religion (11)
+150
+{'cp': 23}
+
+D: Acrobatics (11)
+100
+{'cp': 22}
+
+E: Swarm of ravens MM340, Magmin MM213
+150
+{'cp': 77}
+
+F: Stirge MM285, Stirge MM285, Stirge MM285, Stirge MM285, Axe beak MM318
+150
+{'cp': 50}
+
+G: Boar MM320, Boar MM320, Boar MM320
+150
+{'cp': 94}
+
+Hoard:
+{'money': {'cp': 849, 'sp': 1103, 'gp': 23}, 'magic': ('', 0)}

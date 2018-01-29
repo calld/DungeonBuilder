@@ -1,0 +1,58 @@
+Allosaurus MM80
+Ankheg MM22
+Awakened tree MM318
+Azer MM23
+Bandit captain MM345
+Berserker MM345
+Black Dragon Wyrmling MM89
+Bronze Dragon Wyrmling MM110
+Carrion crawler MM38
+Centaur MM39
+Cult fanatic MM346
+Druid MM347
+Ettercap MM132
+Faerie dragon (green and older) MM134.
+Gargoyle MM141
+Gelatinous Cube MM243
+Ghast MM149
+Giant boar MM324
+Giant constrictor snake MM325
+Giant Elk MM326
+Gibbering mouther MM158
+Githzerai monk MM162
+Gnoll Pack Lord MM164
+Green Dragon wyrmling MM96
+Grick MM174
+Griffon MM175
+Hunter shark MM331
+Intellect devourer MM192
+Lizardfolk shaman MM206
+Merrow MM220
+Mimic MM221
+Minotaur skeleton MM274
+Myconid sovereign MM233
+Nothic MM237
+Ochre jelly MM244
+Ogre MM238
+Ogre Zombie MM317
+Orc Eye of Gruumsh MM248
+Orog MM248
+Pegasus MM251
+Pentadrone MM227
+Peryton MM252
+Plesiosaurus MM81
+Polar Bear MM335
+Poltergeist(specter) MM280
+Priest MM349
+Quaggoth MM257
+Rhinoceros MM337
+Rug of smothering MM21
+Saber-toothed tiger MM337
+Sahuagin priestess MM265
+Sea hag MM180
+Silver dragon wyrmling MM119
+Spined devil MM79
+Swarm of poisonous snakes MM339
+Wererat MM210
+White dragon wyrmling MM103
+Will-o'-wisp MM302

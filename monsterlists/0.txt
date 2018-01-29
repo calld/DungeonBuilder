@@ -1,0 +1,31 @@
+Awakened shrub MM318
+Baboon MM319
+Badger MM319
+Bat MM319
+Cat MM321
+Commoner MM346
+Crab MM321
+Crawling claw MM45
+Deer MM322
+Eagle MM323
+Frog MM323
+Giant Fire Beetle MM326
+Goat MM331
+Hawk MM331
+Homunculus MM189
+Hyena MM332
+Jackal MM332
+Lemure MM77
+Lizard MM333
+Myconid sprout MM231
+Octopus MM334
+Owl MM334
+Qipper MM336
+Rat MM336
+Raven MM336
+Scorpion MM338
+Sea horse MM338
+Shrieker MM139
+Spider MM338
+Vulture MM340
+Weasel MM341

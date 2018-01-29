@@ -1,0 +1,35 @@
+Animated armor MM20
+Brass Dragon wyrmling MM107
+Brown Bear MM320
+Bugbear MM34
+Copper dragon wyrmling MM113
+Death dog MM322
+Dire wolf MM322
+Dryad MM122
+Duergar MM123
+Faerie dragon (yellow or less) MM134
+Fire snake MM266
+Ghoul MM149
+Giant Eagle MM325
+Giant hyena MM327
+Giant octopus MM327
+Giant spider MM329
+Giant toad MM330
+Giant vulture MM330
+Goblin boss MM167
+Half-ogre MM239
+Harpy MM182
+Hippogriff MM185
+Imp MM77
+Kuo-toa whip MM201
+Lion MM332
+Quadrone MM227
+Quaggoth spore servant MM231
+Quasit MM64
+Scarecrow MM269
+Specter MM280
+Spy MM350
+Swarm of qippers MM339
+Thri-kreen MM289
+Tiger MM340
+Yuan-ti pureblood MM311

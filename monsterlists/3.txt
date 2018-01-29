@@ -1,0 +1,33 @@
+Ankylosaurus MM80
+Basilisk MM25
+Bearded devil MM71
+Blue Dragon wyrmling MM92
+Bugbear chief MM34
+Displacer beast MM82
+Doppelganger MM83
+Giant scorpion MM328
+Githyanki warrior MM161
+Gold dragon wyrmling MM116
+Green hag MM178
+Grell MM173
+Hell hound MM183
+Hobgoblin captain MM187
+Hook horror MM190
+Killer whale MM332
+Knight MM348
+Kuo-tuo monitor MM199
+Manticore MM214
+Minotaur MM224
+Mummy MM229
+Nightmare MM236
+Owlbear MM250
+Phase spider MM335
+Quaggoth thonot MM257
+Spectator MM31
+Veteran MM351
+Water Weird MM300
+Werewolf MM212
+Wight MM301
+Winter wolf MM341
+Yeti MM306
+Yuan-ti Malison MM310

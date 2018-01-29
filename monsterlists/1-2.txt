@@ -1,0 +1,34 @@
+Ape MM318
+Black bear MM319
+Cockatrice MM43
+Darkmantle MM47
+Deep gnome MM165
+Dust Mephit MM216
+Gas spore MM139
+Giant goat MM327
+Giant sea horse MM329
+Giant wasp MM330
+Gnoll MM164
+Gray ooze MM244
+Hobgoblin MM186
+Ice Mephit MM216
+Jackalwere MM194
+Lizardfolk MM205
+Magma mephit MM217
+Magmin MM213
+Myconid adult MM233
+Orc MM247
+Piercer MM253
+Reef Shark MM337
+Rust monster MM263
+Sahuagin MM264
+Satyr MM268
+Scout MM350
+Shadow MM270
+Swarm of Insects MM339
+Thug MM351
+Tridrone MM226
+Vine Blight MM33
+Warhorse MM341
+Warhorse skeleton MM274
+Worg MM342

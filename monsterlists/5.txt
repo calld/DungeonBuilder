@@ -1,0 +1,36 @@
+Air elemental MM125
+Barbed devil MM71
+Barlgura MM57
+Beholder zombie MM317
+Bulette MM35
+Cambion MM37
+Drow elite warrior MM129
+Earth elemental MM125
+Fire elemental MM126
+Flesh golem MM170
+Giant crocodile MM325
+Giant shark MM329
+Gladiator MM347
+Gorgon MM172
+Green hag(in coven) MM178
+Half-red dragon veteran MM181
+Hill Giant 156
+Mezzoloth MM314
+Night hag MM179
+Otyugh MM249
+Red slaad MM277
+Revenant MM260
+Roper MM262
+Sahuagin baron MM265
+Salamander MM267
+Shambling mound MM271
+Triceratops MM81
+Troll MM292
+Umber hulk MM293
+Unicorn MM295
+Vampire Spawn MM299
+Water Elemental MM126
+Werebear MM209
+Wraith MM303
+Xorn MM305
+Young Remorhaz MM259

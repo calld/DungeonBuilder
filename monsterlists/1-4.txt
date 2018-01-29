@@ -1,0 +1,44 @@
+Aarakocra MM13
+Acolyte MM343
+Axe beak MM318
+Blink dog MM319
+Boar MM320
+Bullywug MM36
+Constrictor snake MM321
+Draft Horse MM322
+Dretch MM58
+Drow MM129
+Duodrone MM226
+Elk MM323
+Flying Sword MM21
+Giant badger MM324
+Giant bat MM324
+Giant centipede MM324
+Giant frog MM326
+Giant lizard MM327
+Giant owl MM328
+Giant poisonous snake MM328
+Giant wolf spider MM331
+Goblin MM167
+Grimlock MM176
+Kenku MM194
+Kuo-toa MM200
+Mud Mephit MM217
+Needle blight MM33
+Panther MM334
+Pixie MM254
+Pseudodragon MM255
+Pteranodon MM81
+Riding horse MM337
+Skeleton MM273
+Smoke Mephit MM218
+Sprite MM284
+Steam Mephit MM218
+Swarm of bats MM338
+Swarm of rats MM340
+Swarm of ravens MM340
+Troglodyte MM291
+Violet fungus MM139
+Winged kobold MM196
+Wolf MM342
+Zombie MM316
